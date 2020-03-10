@@ -1,0 +1,26 @@
+
+h1
+{
+  font-size: 3em;
+  text-align: center;
+}
+
+label
+{
+  padding: 1%;
+  font-size: 1em;
+  margin: 1%;
+}
+
+input
+{
+  padding: 2%;
+  font-size: 1em;
+  text-align: center;
+}
+
+.input
+{
+  display: flex;
+  justify-content: center;
+}
